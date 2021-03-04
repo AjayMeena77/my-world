@@ -1,0 +1,10 @@
+<!doctype html>\
+<html>
+<head>
+<title>My name </title>
+</head>
+<body>
+<h> Hello world</h>
+<h> My name is <b>Ajay</b></h>
+</body>
+</html>
